@@ -2,10 +2,10 @@
 
 This repository serves as a log of my daily algorithmic problem-solving and data structure implementation, primarily utilizing **Python**. 
 
-## ð¯ Purpose
+## Ã°ÂÂÂ¯ Purpose
 As part of my continuous professional development and transition into full-time software engineering, I dedicate time daily to mastering core computer science concepts. This repository tracks my progression through the NeetCode 150 and various LeetCode challenges.
 
-## ð ï¸ Tech Stack & Focus
+## Ã°ÂÂÂ Ã¯Â¸Â Tech Stack & Focus
 * **Language:** Python 3
 * **Core Focus Areas:**
   * Arrays & Hashing
@@ -14,7 +14,7 @@ As part of my continuous professional development and transition into full-time 
   * Binary Search & Linked Lists
   * Relational Database Queries (PostgreSQL)
 
-## ð Methodology
+## Ã°ÂÂÂ Methodology
 Rather than memorizing solutions, the focus here is on **pattern recognition** and **time/space complexity optimization**. I treat these problems as miniature engineering tasks: 
   * understanding the constraints
   * designing the architecture of the solution
