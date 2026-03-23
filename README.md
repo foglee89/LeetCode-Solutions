@@ -27,6 +27,7 @@ Rather than memorizing solutions, the focus here is on **pattern recognition** a
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/foglee89/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/foglee89/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 ## String
 |  |
@@ -42,4 +43,8 @@ Rather than memorizing solutions, the focus here is on **pattern recognition** a
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/foglee89/LeetCode-Solutions/tree/master/0155-min-stack) |
+## Array
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/foglee89/LeetCode-Solutions/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
