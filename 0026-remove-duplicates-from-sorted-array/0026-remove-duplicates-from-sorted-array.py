@@ -5,4 +5,6 @@ class Solution:
             if nums[i] != nums[i-1]:
                 nums[curr] = nums[i]
                 curr += 1
+
+        nums = nums[:curr]
         return curr
