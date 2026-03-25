@@ -7,9 +7,9 @@ class Solution:
         for p in prices:
             if p < curr_min:
                 curr_min = p
-                curr_max = p
-            else:
-                curr_max = max(curr_max, p)
-            curr_profit = max(curr_profit, curr_max-curr_min)
+            #     curr_max = p
+            # else:
+            #     curr_max = max(curr_max, p)
+            curr_profit = max(curr_profit, p-curr_min)
 
         return curr_profit
