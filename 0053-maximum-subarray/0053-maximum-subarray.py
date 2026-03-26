@@ -1,8 +1,8 @@
 class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
         # set a curr/max sum to ref and my L pointer
-        maxSum = nums[0] #-float("inf")
-        currSum = 0
+        currSum = maxSum = nums[0] #-float("inf")
+        # currSum = 0
 
         # # iter through the arr
         # for R in range(len(nums)):
@@ -17,8 +17,8 @@ class Solution:
         #         currSum -= nums[L]
         #         L += 1
 
-        for num in nums:
-            currSum = max(currSum, 0) + num
+        for num in nums[1:]:
+            currSum = max(currSum+num, num)
             maxSum = max(maxSum, currSum)
         
         return maxSum
