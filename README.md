@@ -56,6 +56,7 @@ Rather than memorizing solutions, the focus here is on **pattern recognition** a
 | [0088-merge-sorted-array](https://github.com/foglee89/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/foglee89/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/foglee89/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/foglee89/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -69,6 +70,7 @@ Rather than memorizing solutions, the focus here is on **pattern recognition** a
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/foglee89/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/foglee89/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/foglee89/LeetCode-Solutions/tree/master/0383-ransom-note) |
 ## Divide and Conquer
 |  |
@@ -79,4 +81,8 @@ Rather than memorizing solutions, the focus here is on **pattern recognition** a
 | ------- |
 | [0169-majority-element](https://github.com/foglee89/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/foglee89/LeetCode-Solutions/tree/master/0383-ransom-note) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/foglee89/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
