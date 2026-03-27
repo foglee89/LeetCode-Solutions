@@ -63,6 +63,7 @@ Rather than memorizing solutions, the focus here is on **pattern recognition** a
 | [0209-minimum-size-subarray-sum](https://github.com/foglee89/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/foglee89/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0303-range-sum-query-immutable](https://github.com/foglee89/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/foglee89/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 ## Sorting
 |  |
 | ------- |
@@ -104,6 +105,7 @@ Rather than memorizing solutions, the focus here is on **pattern recognition** a
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/foglee89/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/foglee89/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/foglee89/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 ## Linked List
 |  |
 | ------- |
