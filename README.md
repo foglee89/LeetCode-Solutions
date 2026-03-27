@@ -33,6 +33,7 @@ Rather than memorizing solutions, the focus here is on **pattern recognition** a
 | [0088-merge-sorted-array](https://github.com/foglee89/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/foglee89/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/foglee89/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/foglee89/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0908-middle-of-the-linked-list](https://github.com/foglee89/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 ## String
 |  |
@@ -59,6 +60,7 @@ Rather than memorizing solutions, the focus here is on **pattern recognition** a
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/foglee89/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/foglee89/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/foglee89/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/foglee89/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/foglee89/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/foglee89/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/foglee89/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -99,6 +101,7 @@ Rather than memorizing solutions, the focus here is on **pattern recognition** a
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/foglee89/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/foglee89/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
 |  |
