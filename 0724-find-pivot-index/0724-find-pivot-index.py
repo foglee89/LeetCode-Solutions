@@ -3,10 +3,10 @@ class Solution:
         total = sum(nums)
         sumL = 0
         
-        for i in range(len(nums)):
-            sumR = total - (sumL+ nums[i])
+        for i, num in enumerate(nums):
+            sumR = total - sumL - num
             if sumL == sumR:
                 return i
-            sumL += nums[i]
+            sumL += num
         
         return -1
