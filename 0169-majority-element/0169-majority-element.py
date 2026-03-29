@@ -1,11 +1,8 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
-        candidate = None
-        count = 0
+        ele_counts = collections.Counter(nums)
+        n = len(nums)
 
-        for num in nums:
-            if count == 0:
-                candidate = num
-            count += (1 if num == candidate else -1)
-
-        return candidate
+        for ele, count in ele_counts.items():
+            if count > (n/2):
+                return ele
