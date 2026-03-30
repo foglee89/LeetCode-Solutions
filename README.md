@@ -34,6 +34,7 @@ Rather than memorizing solutions, the focus here is on **pattern recognition** a
 | [0125-valid-palindrome](https://github.com/foglee89/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/foglee89/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/foglee89/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/foglee89/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/foglee89/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 ## String
 |  |
@@ -66,6 +67,7 @@ Rather than memorizing solutions, the focus here is on **pattern recognition** a
 | [0169-majority-element](https://github.com/foglee89/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/foglee89/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/foglee89/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0287-find-the-duplicate-number](https://github.com/foglee89/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/foglee89/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/foglee89/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 ## Sorting
@@ -106,6 +108,7 @@ Rather than memorizing solutions, the focus here is on **pattern recognition** a
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/foglee89/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/foglee89/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/foglee89/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -121,4 +124,8 @@ Rather than memorizing solutions, the focus here is on **pattern recognition** a
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/foglee89/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/foglee89/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
