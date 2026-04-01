@@ -62,6 +62,7 @@ Rather than memorizing solutions, the focus here is on **pattern recognition** a
 | [0026-remove-duplicates-from-sorted-array](https://github.com/foglee89/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/foglee89/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/foglee89/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/foglee89/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/foglee89/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/foglee89/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/foglee89/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -129,6 +130,7 @@ Rather than memorizing solutions, the focus here is on **pattern recognition** a
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/foglee89/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/foglee89/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 ## Tree
 |  |
@@ -145,4 +147,8 @@ Rather than memorizing solutions, the focus here is on **pattern recognition** a
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/foglee89/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/foglee89/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/foglee89/LeetCode-Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
