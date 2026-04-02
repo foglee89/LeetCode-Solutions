@@ -153,6 +153,7 @@ Rather than memorizing solutions, the focus here is on **pattern recognition** a
 ## Backtracking
 |  |
 | ------- |
+| [0077-combinations](https://github.com/foglee89/LeetCode-Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/foglee89/LeetCode-Solutions/tree/master/0078-subsets) |
 ## Heap (Priority Queue)
 |  |
