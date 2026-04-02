@@ -63,6 +63,7 @@ Rather than memorizing solutions, the focus here is on **pattern recognition** a
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/foglee89/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/foglee89/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0046-permutations](https://github.com/foglee89/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/foglee89/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/foglee89/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/foglee89/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -153,6 +154,7 @@ Rather than memorizing solutions, the focus here is on **pattern recognition** a
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/foglee89/LeetCode-Solutions/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/foglee89/LeetCode-Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/foglee89/LeetCode-Solutions/tree/master/0078-subsets) |
 ## Heap (Priority Queue)
