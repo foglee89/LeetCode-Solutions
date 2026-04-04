@@ -12,11 +12,13 @@ class Solution:
             
             t1, n1 = heapq.heappop(minHeap)
 
-            if n1 not in durations:
-                durations[n1] = t1
-                tt = t1
+            if n1 in durations:
+                continue
+            durations[n1] = t1
+            tt = t1
 
-                for n2, t2 in edges[n1]:
+            for n2, t2 in edges[n1]:
+                if n2 not in durations:
                     heapq.heappush(minHeap, (t1+t2, n2))
 
         return -1 if len(durations) < n else tt
