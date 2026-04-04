@@ -146,6 +146,7 @@ Rather than memorizing solutions, the focus here is on **pattern recognition** a
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/foglee89/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/foglee89/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0744-network-delay-time](https://github.com/foglee89/LeetCode-Solutions/tree/master/0744-network-delay-time) |
 ## Binary Tree
 |  |
 | ------- |
@@ -161,8 +162,21 @@ Rather than memorizing solutions, the focus here is on **pattern recognition** a
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/foglee89/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
+| [0744-network-delay-time](https://github.com/foglee89/LeetCode-Solutions/tree/master/0744-network-delay-time) |
 ## Data Stream
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/foglee89/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/foglee89/LeetCode-Solutions/tree/master/0744-network-delay-time) |
+## Graph Theory
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/foglee89/LeetCode-Solutions/tree/master/0744-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/foglee89/LeetCode-Solutions/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
