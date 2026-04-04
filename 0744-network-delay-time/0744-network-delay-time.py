@@ -7,6 +7,7 @@ class Solution:
 
         shortest = {}
         minHeap = [(0, k)]
+        t = 0
 
         while minHeap:
             t1, n1 = heapq.heappop(minHeap)
@@ -14,9 +15,10 @@ class Solution:
             if n1 in shortest:
                 continue
             shortest[n1] = t1
+            t = t1
 
             for n2, t2 in edges[n1]:
                 if n2 not in shortest:
                     heapq.heappush(minHeap, (t1+t2, n2))
 
-        return -1 if len(shortest) < n else max(shortest.values())
+        return -1 if len(shortest) < n else t
