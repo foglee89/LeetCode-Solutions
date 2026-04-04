@@ -61,6 +61,7 @@ Rather than memorizing solutions, the focus here is on **pattern recognition** a
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/foglee89/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/foglee89/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/foglee89/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/foglee89/LeetCode-Solutions/tree/master/0046-permutations) |
@@ -90,6 +91,7 @@ Rather than memorizing solutions, the focus here is on **pattern recognition** a
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/foglee89/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/foglee89/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/foglee89/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/foglee89/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
