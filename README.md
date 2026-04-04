@@ -127,6 +127,7 @@ Rather than memorizing solutions, the focus here is on **pattern recognition** a
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/foglee89/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/foglee89/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0908-middle-of-the-linked-list](https://github.com/foglee89/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Trie
@@ -181,4 +182,8 @@ Rather than memorizing solutions, the focus here is on **pattern recognition** a
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/foglee89/LeetCode-Solutions/tree/master/0744-network-delay-time) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/foglee89/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
