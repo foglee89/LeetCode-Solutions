@@ -6,15 +6,6 @@ class Solution:
         for i,n in enumerate(nums):
             if n not in available:
                 available[n] = i
-
-            t = target-n
             
-            if t in available and available[t] != i:
-                return [available[t], i]
-                # ti = available[t][0]
-                # if len(available[t]) == 2:
-                #     return available[t]
-                # elif ti == i:
-                #     continue
-                # else:
-                #     return [i, ti]
+            if target-n in available and available[target-n] != i:
+                return [available[target-n], i]
