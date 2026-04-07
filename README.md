@@ -45,6 +45,7 @@ Rather than memorizing solutions, the focus here is on **pattern recognition** a
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/foglee89/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/foglee89/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/foglee89/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/foglee89/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/foglee89/LeetCode-Solutions/tree/master/0383-ransom-note) |
 ## Stack
 |  |
@@ -84,6 +85,7 @@ Rather than memorizing solutions, the focus here is on **pattern recognition** a
 | ------- |
 | [0088-merge-sorted-array](https://github.com/foglee89/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/foglee89/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/foglee89/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/foglee89/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
 ## Dynamic Programming
 |  |
@@ -98,6 +100,7 @@ Rather than memorizing solutions, the focus here is on **pattern recognition** a
 | [0169-majority-element](https://github.com/foglee89/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/foglee89/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/foglee89/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/foglee89/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/foglee89/LeetCode-Solutions/tree/master/0383-ransom-note) |
 ## Divide and Conquer
 |  |
