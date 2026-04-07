@@ -1,19 +1,30 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        t_counts = collections.Counter(t)
-        s_counts = collections.Counter(s)
-
-        if t_counts != s_counts:
+        if len(s) != len(t):
             return False
-        else:
-            return True
+
+        t_counts = collections.Counter(t)
+
+        # more mem, but straightforward
+        # s_counts = collections.Counter(s)
+
+        # if t_counts != s_counts:
+        #     return False
+        # else:
+        #     return True
         
-        # for c in s:
-        #     if c not in t_counts:
-        #         return False
-        #     elif t_counts[c] <= 0:
-        #         return False
-        #     else:
-        #         t_counts[c] -= 1
+
+        # less mem
+        for c in s:
+            if c not in t_counts:
+                return False
+            elif t_counts[c] <= 0:
+                return False
+            else:
+                t_counts[c] -= 1
         
-        # for v in 
+        for v in t_counts.values():
+            if v != 0:
+                return False
+        
+        return True
