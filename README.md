@@ -41,6 +41,7 @@ Rather than memorizing solutions, the focus here is on **pattern recognition** a
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/foglee89/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/foglee89/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/foglee89/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/foglee89/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -97,6 +98,7 @@ Rather than memorizing solutions, the focus here is on **pattern recognition** a
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/foglee89/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/foglee89/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/foglee89/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/foglee89/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/foglee89/LeetCode-Solutions/tree/master/0169-majority-element) |
@@ -204,5 +206,6 @@ Rather than memorizing solutions, the focus here is on **pattern recognition** a
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/foglee89/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/foglee89/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
