@@ -160,6 +160,7 @@ Rather than memorizing solutions, the focus here is on **pattern recognition** a
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/foglee89/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/foglee89/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0207-course-schedule](https://github.com/foglee89/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/foglee89/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0684-redundant-connection](https://github.com/foglee89/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/foglee89/LeetCode-Solutions/tree/master/0744-network-delay-time) |
@@ -187,12 +188,14 @@ Rather than memorizing solutions, the focus here is on **pattern recognition** a
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/foglee89/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/foglee89/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0684-redundant-connection](https://github.com/foglee89/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/foglee89/LeetCode-Solutions/tree/master/0744-network-delay-time) |
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/foglee89/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/foglee89/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/foglee89/LeetCode-Solutions/tree/master/0744-network-delay-time) |
 | [1706-min-cost-to-connect-all-points](https://github.com/foglee89/LeetCode-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
@@ -222,4 +225,8 @@ Rather than memorizing solutions, the focus here is on **pattern recognition** a
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/foglee89/LeetCode-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/foglee89/LeetCode-Solutions/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
