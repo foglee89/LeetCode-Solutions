@@ -161,6 +161,7 @@ Rather than memorizing solutions, the focus here is on **pattern recognition** a
 | [0144-binary-tree-preorder-traversal](https://github.com/foglee89/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/foglee89/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/foglee89/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0684-redundant-connection](https://github.com/foglee89/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/foglee89/LeetCode-Solutions/tree/master/0744-network-delay-time) |
 ## Binary Tree
 |  |
@@ -187,10 +188,12 @@ Rather than memorizing solutions, the focus here is on **pattern recognition** a
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/foglee89/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0684-redundant-connection](https://github.com/foglee89/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/foglee89/LeetCode-Solutions/tree/master/0744-network-delay-time) |
 ## Graph Theory
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/foglee89/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/foglee89/LeetCode-Solutions/tree/master/0744-network-delay-time) |
 | [1706-min-cost-to-connect-all-points](https://github.com/foglee89/LeetCode-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
 ## Shortest Path
@@ -213,6 +216,7 @@ Rather than memorizing solutions, the focus here is on **pattern recognition** a
 ## Union-Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/foglee89/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [1706-min-cost-to-connect-all-points](https://github.com/foglee89/LeetCode-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
 ## Minimum Spanning Tree
 |  |
