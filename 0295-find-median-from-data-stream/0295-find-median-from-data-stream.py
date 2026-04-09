@@ -12,6 +12,8 @@ class MedianFinder:
         # if len(self.large) > len(self.small):
         #     heapq.heappush_max(self.small, heapq.heappop(self.large))
 
+        ##########################################################################################
+
         # long approach, more self-explanatory and readily-adaptable
         heapq.heappush_max(self.small, num)
 
