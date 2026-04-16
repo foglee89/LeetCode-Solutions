@@ -27,6 +27,7 @@ Rather than memorizing solutions, the focus here is on **pattern recognition** a
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/foglee89/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/foglee89/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/foglee89/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/foglee89/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -41,6 +42,7 @@ Rather than memorizing solutions, the focus here is on **pattern recognition** a
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/foglee89/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/foglee89/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/foglee89/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/foglee89/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
@@ -93,6 +95,7 @@ Rather than memorizing solutions, the focus here is on **pattern recognition** a
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/foglee89/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/foglee89/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/foglee89/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
