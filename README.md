@@ -51,6 +51,7 @@ Rather than memorizing solutions, the focus here is on **pattern recognition** a
 | [0208-implement-trie-prefix-tree](https://github.com/foglee89/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/foglee89/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/foglee89/LeetCode-Solutions/tree/master/0383-ransom-note) |
+| [1250-longest-common-subsequence](https://github.com/foglee89/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -98,6 +99,7 @@ Rather than memorizing solutions, the focus here is on **pattern recognition** a
 | [0005-longest-palindromic-substring](https://github.com/foglee89/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/foglee89/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/foglee89/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1250-longest-common-subsequence](https://github.com/foglee89/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
 ## Hash Table
 |  |
 | ------- |
