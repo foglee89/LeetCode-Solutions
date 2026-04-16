@@ -84,6 +84,7 @@ Rather than memorizing solutions, the focus here is on **pattern recognition** a
 | [0219-contains-duplicate-ii](https://github.com/foglee89/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0287-find-the-duplicate-number](https://github.com/foglee89/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/foglee89/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0322-coin-change](https://github.com/foglee89/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0724-find-pivot-index](https://github.com/foglee89/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1706-min-cost-to-connect-all-points](https://github.com/foglee89/LeetCode-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
 ## Sorting
@@ -99,6 +100,7 @@ Rather than memorizing solutions, the focus here is on **pattern recognition** a
 | [0005-longest-palindromic-substring](https://github.com/foglee89/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/foglee89/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/foglee89/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0322-coin-change](https://github.com/foglee89/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [1250-longest-common-subsequence](https://github.com/foglee89/LeetCode-Solutions/tree/master/1250-longest-common-subsequence) |
 ## Hash Table
 |  |
@@ -195,6 +197,7 @@ Rather than memorizing solutions, the focus here is on **pattern recognition** a
 | ------- |
 | [0207-course-schedule](https://github.com/foglee89/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/foglee89/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/foglee89/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0684-redundant-connection](https://github.com/foglee89/LeetCode-Solutions/tree/master/0684-redundant-connection) |
 | [0744-network-delay-time](https://github.com/foglee89/LeetCode-Solutions/tree/master/0744-network-delay-time) |
 ## Graph Theory
