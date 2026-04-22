@@ -237,4 +237,8 @@ Rather than memorizing solutions, the focus here is on **pattern recognition** a
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/foglee89/LeetCode-Solutions/tree/master/0207-course-schedule) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/foglee89/LeetCode-Solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
