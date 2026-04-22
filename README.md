@@ -241,4 +241,5 @@ Rather than memorizing solutions, the focus here is on **pattern recognition** a
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/foglee89/LeetCode-Solutions/tree/master/0175-combine-two-tables) |
+| [2515-calculate-the-influence-of-each-salesperson](https://github.com/foglee89/LeetCode-Solutions/tree/master/2515-calculate-the-influence-of-each-salesperson) |
 <!---LeetCode Topics End-->
