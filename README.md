@@ -47,6 +47,7 @@ Rather than memorizing solutions, the focus here is on **pattern recognition** a
 | [0013-roman-to-integer](https://github.com/foglee89/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/foglee89/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/foglee89/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/foglee89/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/foglee89/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/foglee89/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/foglee89/LeetCode-Solutions/tree/master/0242-valid-anagram) |
@@ -73,6 +74,7 @@ Rather than memorizing solutions, the focus here is on **pattern recognition** a
 | [0026-remove-duplicates-from-sorted-array](https://github.com/foglee89/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/foglee89/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/foglee89/LeetCode-Solutions/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/foglee89/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/foglee89/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/foglee89/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/foglee89/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -91,6 +93,7 @@ Rather than memorizing solutions, the focus here is on **pattern recognition** a
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/foglee89/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/foglee89/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/foglee89/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/foglee89/LeetCode-Solutions/tree/master/0242-valid-anagram) |
@@ -110,6 +113,7 @@ Rather than memorizing solutions, the focus here is on **pattern recognition** a
 | [0001-two-sum](https://github.com/foglee89/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/foglee89/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/foglee89/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/foglee89/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/foglee89/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/foglee89/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/foglee89/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
