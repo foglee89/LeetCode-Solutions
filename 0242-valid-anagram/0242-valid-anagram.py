@@ -3,9 +3,15 @@ class Solution:
         if len(s) != len(t):
             return False
 
-        t_counts = collections.Counter(t)
+        # t_counts = collections.Counter(t)
 
-        # more mem, but straightforward
+        # fastest and straightforward if collections allowed
+        countS = collections.Counter(s)
+        countT = collections.Counter(t)
+
+        return countS == countT
+
+        # faster and straightforward
         # s_counts = collections.Counter(s)
 
         # if t_counts != s_counts:
@@ -14,17 +20,17 @@ class Solution:
         #     return True
         
 
-        # less mem
-        for c in s:
-            if c not in t_counts:
-                return False
-            elif t_counts[c] <= 0:
-                return False
-            else:
-                t_counts[c] -= 1
+        # less mem, slower
+        # for c in s:
+        #     if c not in t_counts:
+        #         return False
+        #     elif t_counts[c] <= 0:
+        #         return False
+        #     else:
+        #         t_counts[c] -= 1
         
-        for v in t_counts.values():
-            if v != 0:
-                return False
+        # for v in t_counts.values():
+        #     if v != 0:
+        #         return False
         
-        return True
+        # return True
