@@ -1,13 +1,10 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        
-        available = {}
+        seen = {}
 
         for i,n in enumerate(nums):
+
+            if target-n in seen:
+                return [seen[target-n], i]
             
-            if target-n in available and available[target-n] != i:
-                return [available[target-n], i]
-            
-            available[n] = i
-        
-        return []
+            seen[n] = i
