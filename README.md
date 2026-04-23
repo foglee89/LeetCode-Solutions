@@ -87,6 +87,7 @@ Rather than memorizing solutions, the focus here is on **pattern recognition** a
 | [0287-find-the-duplicate-number](https://github.com/foglee89/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/foglee89/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/foglee89/LeetCode-Solutions/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/foglee89/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0724-find-pivot-index](https://github.com/foglee89/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/foglee89/LeetCode-Solutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1706-min-cost-to-connect-all-points](https://github.com/foglee89/LeetCode-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
@@ -98,6 +99,7 @@ Rather than memorizing solutions, the focus here is on **pattern recognition** a
 | [0169-majority-element](https://github.com/foglee89/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/foglee89/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/foglee89/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/foglee89/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/foglee89/LeetCode-Solutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 ## Dynamic Programming
 |  |
@@ -119,16 +121,19 @@ Rather than memorizing solutions, the focus here is on **pattern recognition** a
 | [0208-implement-trie-prefix-tree](https://github.com/foglee89/LeetCode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0219-contains-duplicate-ii](https://github.com/foglee89/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/foglee89/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/foglee89/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/foglee89/LeetCode-Solutions/tree/master/0383-ransom-note) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/foglee89/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/foglee89/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/foglee89/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/foglee89/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/foglee89/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/foglee89/LeetCode-Solutions/tree/master/0383-ransom-note) |
 ## Sliding Window
 |  |
@@ -193,6 +198,7 @@ Rather than memorizing solutions, the focus here is on **pattern recognition** a
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/foglee89/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/foglee89/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0744-network-delay-time](https://github.com/foglee89/LeetCode-Solutions/tree/master/0744-network-delay-time) |
 ## Data Stream
 |  |
@@ -254,4 +260,12 @@ Rather than memorizing solutions, the focus here is on **pattern recognition** a
 | [1827-invalid-tweets](https://github.com/foglee89/LeetCode-Solutions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/foglee89/LeetCode-Solutions/tree/master/1908-recyclable-and-low-fat-products) |
 | [2515-calculate-the-influence-of-each-salesperson](https://github.com/foglee89/LeetCode-Solutions/tree/master/2515-calculate-the-influence-of-each-salesperson) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/foglee89/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/foglee89/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
