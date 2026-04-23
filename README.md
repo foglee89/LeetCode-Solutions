@@ -243,6 +243,7 @@ Rather than memorizing solutions, the focus here is on **pattern recognition** a
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/foglee89/LeetCode-Solutions/tree/master/0175-combine-two-tables) |
+| [0584-find-customer-referee](https://github.com/foglee89/LeetCode-Solutions/tree/master/0584-find-customer-referee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/foglee89/LeetCode-Solutions/tree/master/1908-recyclable-and-low-fat-products) |
 | [2515-calculate-the-influence-of-each-salesperson](https://github.com/foglee89/LeetCode-Solutions/tree/master/2515-calculate-the-influence-of-each-salesperson) |
 <!---LeetCode Topics End-->
