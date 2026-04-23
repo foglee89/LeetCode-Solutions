@@ -1,9 +1,9 @@
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
         freq = collections.Counter(nums)
-
-        freq = sorted(freq, key=lambda cnt: freq[cnt], reverse='True')
-
+    
+        freq = sorted(freq, key=lambda n: freq[n], reverse='True')
+    
         res = []
 
         for i in range(k):
