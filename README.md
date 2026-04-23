@@ -86,6 +86,7 @@ Rather than memorizing solutions, the focus here is on **pattern recognition** a
 | [0303-range-sum-query-immutable](https://github.com/foglee89/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/foglee89/LeetCode-Solutions/tree/master/0322-coin-change) |
 | [0724-find-pivot-index](https://github.com/foglee89/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/foglee89/LeetCode-Solutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1706-min-cost-to-connect-all-points](https://github.com/foglee89/LeetCode-Solutions/tree/master/1706-min-cost-to-connect-all-points) |
 ## Sorting
 |  |
@@ -94,6 +95,7 @@ Rather than memorizing solutions, the focus here is on **pattern recognition** a
 | [0169-majority-element](https://github.com/foglee89/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/foglee89/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/foglee89/LeetCode-Solutions/tree/master/0295-find-median-from-data-stream) |
+| [1626-can-make-arithmetic-progression-from-sequence](https://github.com/foglee89/LeetCode-Solutions/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 ## Dynamic Programming
 |  |
 | ------- |
