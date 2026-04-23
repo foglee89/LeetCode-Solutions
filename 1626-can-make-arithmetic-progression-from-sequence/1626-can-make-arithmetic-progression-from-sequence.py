@@ -1,16 +1,12 @@
 class Solution:
     def canMakeArithmeticProgression(self, arr: List[int]) -> bool:
         
-        fwd = sorted(arr)
-        rev = sorted(arr, reverse=True)
+        arr.sort()
 
-        delta = None
+        delta = arr[1]-arr[0]
 
-        for i in range(1, len(arr)):
-            if not delta:
-                delta = abs(fwd[i]- fwd[i-1])
-
-            if abs(fwd[i]- fwd[i-1]) != delta or abs(rev[i]-rev[i-1]) != delta:
+        for i in range(2, len(arr)):
+            if arr[i]-arr[i-1] != delta:
                 return False
         
         return True
